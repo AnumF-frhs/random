@@ -1,19 +1,17 @@
-//literal
+//literal notation
 var favFilms = ["Frozen", "Harry Potter", "Rush Hour"];
 
 /// new
 const hobbies = new Array("Reading", "Coloring", "Crocheting");
-
-// new x2
+// new example
 const luckyNums = new Array(8, 12, 96);
 
-//literal
-
+//literal example
 const fortune = ["Yes!", "Nope.", "Uhm, maybe...", "Ugh, ask again.", "Yes...but the catch is no."];
 fortune[0] = "ABSolutely!";
 console.log(fortune[2]);
 
-fortune[4] = "...meow.";
+fortune[4] = "meow.";
 console.log(fortune);
 
 //to find length
