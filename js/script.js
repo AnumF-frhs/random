@@ -40,7 +40,10 @@ console.log(fortune);
 
 //with functions
 
-function array (arr) {
+function pushArray (arr) {
     console.log(arr[0]);
     console.log(arr[2]);
 }
+
+pushArray();
+console.log(pushArray);
